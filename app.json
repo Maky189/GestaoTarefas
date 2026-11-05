@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Gestão de Tarefas",
+    "slug": "gestao-tarefas-academicas",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#F7F8FA",
+    "ios": { "supportsTablet": true },
+    "android": { "package": "pt.aulas.gestaotarefas" },
+    "web": { "name": "Gestão de Tarefas", "shortName": "Tarefas", "lang": "pt-PT" }
+  }
+}
